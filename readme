@@ -1,0 +1,4 @@
+primero crea un entorno virutal
+luegoen el entorno virtualejecuta el siguiente comando
+
+----> pip install -r requirements.txt
